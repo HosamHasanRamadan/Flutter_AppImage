@@ -17,3 +17,7 @@ This project is a starting point that helps you package your Flutter Linux app i
 - [Linux install - Flutter](https://flutter.dev/docs/get-started/install/linux)
 
 - [Build and release a Linux app to the Snap Store - Flutter](https://flutter.dev/docs/deployment/linux)
+
+### Article :
+- [Package Flutter Linux App Into AppImage Part 1](https://dev.to/hosamhasan/package-flutter-linux-app-into-appimage-part-1-2agj)
+- [Package Flutter Linux App Into AppImage Part 2](https://dev.to/hosamhasan/package-flutter-linux-app-into-appimage-part-2-1c5o)
